@@ -99,7 +99,7 @@ class CategoryRoute extends StatelessWidget {
       backgroundColor: _backgroundColor,
     );
 
-    // sai rowdy dhyaag tyHGSDYFYUASFYU
+    // sai rowdy dhaa
     return Scaffold(
       appBar: appBar,
       body: listView,
